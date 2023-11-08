@@ -24,8 +24,6 @@ class UserSeeder extends Seeder
             'Phone'=> '9876543210',
             'Status'=> 'Single',
 
-
-    
         ]);
     }
 }
